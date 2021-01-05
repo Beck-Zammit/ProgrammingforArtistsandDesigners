@@ -78,7 +78,7 @@ if((mouseX > 280 && mouseX < 750)){
 
 if(mousePressed){
   
-   image(covidgerm, 50,50);
+   image(covidgerm, 50,50, 50,50 );
    
  }
  
